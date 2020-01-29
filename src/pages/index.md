@@ -1,9 +1,9 @@
 ---
 title: Home
 banner:
-  title: Spectral
+  title: Whatever
   subtitle: |-
-    Blandit duis accumsan  
+    This is the front page
     arcu sagittis viverra  
     blandit at Interdum.
   actions:
@@ -13,7 +13,7 @@ banner:
       is_primary: true
   bottom_link:
     label: Learn More
-    url: '#one'
+    url: "#one"
     has_arrow: true
     is_scrolly: true
 sections:
@@ -26,7 +26,7 @@ sections:
       eleifend  
 
       fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+      ullamcorper.
     section_id: one
     background_style: style1
     feature_icons:
